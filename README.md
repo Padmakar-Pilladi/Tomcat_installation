@@ -83,6 +83,5 @@ Log in with the username **tomcat** and password **Tomcat**.
 - Ensure that port **8080** is open in your firewall for remote access.
 - For security reasons, avoid using weak credentials in a production environment.
 
-## License
-This script is provided as-is without any warranties. Use at your own risk.
+
 
